@@ -1,0 +1,20 @@
+{
+    "info": [
+        {
+            "name": ".docx",
+            "percentage": 4
+        },
+        {
+            "name": ".mp3",
+            "percentage": 14
+        },
+        {
+            "name": ".pdf",
+            "percentage": 41
+        },
+        {
+            "name": ".mp4",
+            "percentage": 12
+        }
+    ]
+}
